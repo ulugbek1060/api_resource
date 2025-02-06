@@ -7,6 +7,8 @@ import 'package:api_resource/models/picsum_data.dart';
 import 'package:api_resource/models/random_user_data.dart';
 import 'package:api_resource/models/reqres_in_data.dart';
 import 'package:api_resource/models/rickandmorty_data.dart';
+import 'package:api_resource/base_api_resource.dart';
+
 import 'package:http/http.dart' as http;
 
 abstract class BaseApiFetcher {
