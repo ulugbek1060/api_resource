@@ -1,11 +1,11 @@
-import 'package:data/src/models/dummyjson_data.dart';
-import 'package:data/src/models/json_placeholder_data.dart';
-import 'package:data/src/models/nasa_data.dart';
-import 'package:data/src/models/openbrewerydb_data.dart';
-import 'package:data/src/models/picsum_data.dart';
-import 'package:data/src/models/random_user_data.dart';
-import 'package:data/src/models/reqres_in_data.dart';
-import 'package:data/src/models/rickandmorty_data.dart';
+import 'package:api_resource/models/dummyjson_data.dart';
+import 'package:api_resource/models/json_placeholder_data.dart';
+import 'package:api_resource/models/nasa_data.dart';
+import 'package:api_resource/models/openbrewerydb_data.dart';
+import 'package:api_resource/models/picsum_data.dart';
+import 'package:api_resource/models/random_user_data.dart';
+import 'package:api_resource/models/reqres_in_data.dart';
+import 'package:api_resource/models/rickandmorty_data.dart';
 
 /// 1. JSONPlaceholder
 /// https://jsonplaceholder.typicode.com/posts?_page=1&_limit=10
